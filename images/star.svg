@@ -1,0 +1,7 @@
+<svg viewBox="0 0 107.73502691896257 115.47005383792515" version="1.0" xmlns="http://www.w3.org/2000/svg"  width="107.73502691896257" height="115.47005383792515">
+ <g> 
+	<path d="M50 0 L0 86.60254037844386 L100 86.60254037844386 Z" />
+	<animateTransform attributeName="transform" begin="0s" dur="2s" type="rotate" from="0 50 57.735026918962575" keyTimes="0; .8; 1" calcMode="linear" to="360 50 57.735026918962575" repeatCount="indefinite"/>
+</g>
+
+</svg>  
